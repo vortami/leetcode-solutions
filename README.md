@@ -12,6 +12,7 @@
 * (705) [Design HashSet](solutions/l0705/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashset))
 * (706) [Design HashMap](solutions/l0706/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashmap))
 * (1385) [Find the Distance Value Between Two Arrays](solutions/l1385/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays))
+* (1394) [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs) ([Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array))
 * (2215) [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays))
 * (3217) [Delete Nodes From Linked List Present in Array](solutions/l3217/src/lib.rs) ([Problem](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array))
 * (3248) [Snake in Matrix](solutions/l3248/src/lib.rs) ([Problem](https://leetcode.com/problems/snake-in-matrix))
