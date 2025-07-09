@@ -15,6 +15,7 @@
 * (1394) [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs) ([Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array))
 * (1865) [Finding Pairs With a Certain Sum](solutions/l1865/src/lib.rs) ([Problem](https://leetcode.com/problems/finding-pairs-with-a-certain-sum))
 * (2215) [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays))
+* (3174) [Clear Digits](solutions/l3174/src/lib.rs) ([Problem](https://leetcode.com/problems/clear-digits))
 * (3217) [Delete Nodes From Linked List Present in Array](solutions/l3217/src/lib.rs) ([Problem](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array))
 * (3248) [Snake in Matrix](solutions/l3248/src/lib.rs) ([Problem](https://leetcode.com/problems/snake-in-matrix))
 * (3392) [Count Subarrays of Length Three With a Condition](solutions/l3392/src/lib.rs) ([Problem](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition))
