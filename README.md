@@ -11,6 +11,7 @@
 * (622) [Design Circular Queue](solutions/l0622/src/lib.rs) ([Problem](https://leetcode.com/problems/design-circular-queue))
 * (705) [Design HashSet](solutions/l0705/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashset))
 * (706) [Design HashMap](solutions/l0706/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashmap))
+* (908) [Smallest Range I](solutions/l0908/src/lib.rs) ([Problem](https://leetcode.com/problems/smallest-range-i))
 * (1385) [Find the Distance Value Between Two Arrays](solutions/l1385/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays))
 * (1394) [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs) ([Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array))
 * (1700) [Number of Students Unable to Eat Lunch](solutions/l1700/src/lib.rs) ([Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch))
