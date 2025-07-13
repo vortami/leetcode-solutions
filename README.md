@@ -13,6 +13,7 @@
 * (706) [Design HashMap](solutions/l0706/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashmap))
 * (1385) [Find the Distance Value Between Two Arrays](solutions/l1385/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays))
 * (1394) [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs) ([Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array))
+* (1700) [Number of Students Unable to Eat Lunch](solutions/l1700/src/lib.rs) ([Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch))
 * (1865) [Finding Pairs With a Certain Sum](solutions/l1865/src/lib.rs) ([Problem](https://leetcode.com/problems/finding-pairs-with-a-certain-sum))
 * (2043) [Simple Bank System](solutions/l2043/src/lib.rs) ([Problem](https://leetcode.com/problems/simple-bank-system))
 * (2215) [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays))
