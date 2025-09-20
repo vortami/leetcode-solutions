@@ -1,27 +1,30 @@
 # My LeetCode solutions!
 
 ## Problems
-* (4) [Median of Two Sorted Arrays](solutions/l0004/src/lib.rs) ([Problem](https://leetcode.com/problems/median-of-two-sorted-arrays))
-* (17) [Letter Combinations of a Phone Number](solutions/l0017/src/lib.rs) ([Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number))
-* (24) [Swap Nodes in Pairs](solutions/l0024/src/lib.rs) ([Problem](https://leetcode.com/problems/swap-nodes-in-pairs))
-* (33) [Search in Rotated Sorted Array](solutions/l0033/src/lib.rs) ([Problem](https://leetcode.com/problems/search-in-rotated-sorted-array))
-* (125) [Valid Palindrome](solutions/l0125/src/lib.rs) ([Problem](https://leetcode.com/problems/valid-palindrome/))
-* (146) [LRU Cache](solutions/l0146/src/lib.rs) ([Problem](https://leetcode.com/problems/lru-cache))
-* (203) [Remove Linked List Elements](solutions/l0203/src/lib.rs) ([Problem](https://leetcode.com/problems/remove-linked-list-elements))
-* (234) [Palindrome Linked List](solutions/l0234/src/lib.rs) ([Problem](https://leetcode.com/problems/palindrome-linked-list))
-* (287) [Find the Duplicate Number](solutions/l0287/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-duplicate-number/description/))
-* (622) [Design Circular Queue](solutions/l0622/src/lib.rs) ([Problem](https://leetcode.com/problems/design-circular-queue))
-* (705) [Design HashSet](solutions/l0705/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashset))
-* (706) [Design HashMap](solutions/l0706/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashmap))
-* (908) [Smallest Range I](solutions/l0908/src/lib.rs) ([Problem](https://leetcode.com/problems/smallest-range-i))
-* (1385) [Find the Distance Value Between Two Arrays](solutions/l1385/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays))
-* (1394) [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs) ([Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array))
-* (1700) [Number of Students Unable to Eat Lunch](solutions/l1700/src/lib.rs) ([Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch))
-* (1865) [Finding Pairs With a Certain Sum](solutions/l1865/src/lib.rs) ([Problem](https://leetcode.com/problems/finding-pairs-with-a-certain-sum))
-* (2043) [Simple Bank System](solutions/l2043/src/lib.rs) ([Problem](https://leetcode.com/problems/simple-bank-system))
-* (2215) [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays))
-* (2241) [Design an ATM Machine](solutions/l2241/src/lib.rs) ([Problem](https://leetcode.com/problems/design-an-atm-machine))
-* (3174) [Clear Digits](solutions/l3174/src/lib.rs) ([Problem](https://leetcode.com/problems/clear-digits))
-* (3217) [Delete Nodes From Linked List Present in Array](solutions/l3217/src/lib.rs) ([Problem](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array))
-* (3248) [Snake in Matrix](solutions/l3248/src/lib.rs) ([Problem](https://leetcode.com/problems/snake-in-matrix))
-* (3392) [Count Subarrays of Length Three With a Condition](solutions/l3392/src/lib.rs) ([Problem](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition))
+
+| #    | Problem                                                                        | LeetCode                                                                                   |
+|-----:|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|    4 | [Median of Two Sorted Arrays](solutions/l0004/src/lib.rs)                      | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays)                      |
+|   17 | [Letter Combinations of a Phone Number](solutions/l0017/src/lib.rs)            | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)            |
+|   24 | [Swap Nodes in Pairs](solutions/l0024/src/lib.rs)                              | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs)                              |
+|   33 | [Search in Rotated Sorted Array](solutions/l0033/src/lib.rs)                   | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)                   |
+|  125 | [Valid Palindrome](solutions/l0125/src/lib.rs)                                 | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                                |
+|  146 | [LRU Cache](solutions/l0146/src/lib.rs)                                        | [LeetCode](https://leetcode.com/problems/lru-cache)                                        |
+|  203 | [Remove Linked List Elements](solutions/l0203/src/lib.rs)                      | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements)                      |
+|  234 | [Palindrome Linked List](solutions/l0234/src/lib.rs)                           | [LeetCode](https://leetcode.com/problems/palindrome-linked-list)                           |
+|  287 | [Find the Duplicate Number](solutions/l0287/src/lib.rs)                        | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/description/)           |
+|  622 | [Design Circular Queue](solutions/l0622/src/lib.rs)                            | [LeetCode](https://leetcode.com/problems/design-circular-queue)                            |
+|  705 | [Design HashSet](solutions/l0705/src/lib.rs)                                   | [LeetCode](https://leetcode.com/problems/design-hashset)                                   |
+|  706 | [Design HashMap](solutions/l0706/src/lib.rs)                                   | [LeetCode](https://leetcode.com/problems/design-hashmap)                                   |
+|  908 | [Smallest Range I](solutions/l0908/src/lib.rs)                                 | [LeetCode](https://leetcode.com/problems/smallest-range-i)                                 |
+| 1385 | [Find the Distance Value Between Two Arrays](solutions/l1385/src/lib.rs)       | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)       |
+| 1394 | [Find Lucky Integer in an Array](solutions/l1394/src/lib.rs)                   | [LeetCode](https://leetcode.com/problems/find-lucky-integer-in-an-array)                   |
+| 1700 | [Number of Students Unable to Eat Lunch](solutions/l1700/src/lib.rs)           | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)           |
+| 1865 | [Finding Pairs With a Certain Sum](solutions/l1865/src/lib.rs)                 | [LeetCode](https://leetcode.com/problems/finding-pairs-with-a-certain-sum)                 |
+| 2043 | [Simple Bank System](solutions/l2043/src/lib.rs)                               | [LeetCode](https://leetcode.com/problems/simple-bank-system)                               |
+| 2215 | [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs)                | [LeetCode](https://leetcode.com/problems/find-the-difference-of-two-arrays)                |
+| 2241 | [Design an ATM Machine](solutions/l2241/src/lib.rs)                            | [LeetCode](https://leetcode.com/problems/design-an-atm-machine)                            |
+| 3174 | [Clear Digits](solutions/l3174/src/lib.rs)                                     | [LeetCode](https://leetcode.com/problems/clear-digits)                                     |
+| 3217 | [Delete Nodes From Linked List Present in Array](solutions/l3217/src/lib.rs)   | [LeetCode](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)   |
+| 3248 | [Snake in Matrix](solutions/l3248/src/lib.rs)                                  | [LeetCode](https://leetcode.com/problems/snake-in-matrix)                                  |
+| 3392 | [Count Subarrays of Length Three With a Condition](solutions/l3392/src/lib.rs) | [LeetCode](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) |
