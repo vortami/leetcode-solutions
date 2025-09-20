@@ -9,6 +9,7 @@
 * (146) [LRU Cache](solutions/l0146/src/lib.rs) ([Problem](https://leetcode.com/problems/lru-cache))
 * (203) [Remove Linked List Elements](solutions/l0203/src/lib.rs) ([Problem](https://leetcode.com/problems/remove-linked-list-elements))
 * (234) [Palindrome Linked List](solutions/l0234/src/lib.rs) ([Problem](https://leetcode.com/problems/palindrome-linked-list))
+* (287) [Find the Duplicate Number](solutions/l0287/src/lib.rs) ([Problem](https://leetcode.com/problems/find-the-duplicate-number/description/))
 * (622) [Design Circular Queue](solutions/l0622/src/lib.rs) ([Problem](https://leetcode.com/problems/design-circular-queue))
 * (705) [Design HashSet](solutions/l0705/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashset))
 * (706) [Design HashMap](solutions/l0706/src/lib.rs) ([Problem](https://leetcode.com/problems/design-hashmap))
