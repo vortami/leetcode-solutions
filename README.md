@@ -13,7 +13,7 @@
 |  146 | [LRU Cache](solutions/l0146/src/lib.rs)                                        | [LeetCode](https://leetcode.com/problems/lru-cache)                                        |
 |  203 | [Remove Linked List Elements](solutions/l0203/src/lib.rs)                      | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements)                      |
 |  234 | [Palindrome Linked List](solutions/l0234/src/lib.rs)                           | [LeetCode](https://leetcode.com/problems/palindrome-linked-list)                           |
-|  287 | [Find the Duplicate Number](solutions/l0287/src/lib.rs)                        | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/description/)           |
+|  287 | [Find the Duplicate Number](solutions/l0287/src/lib.rs)                        | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)                       |
 |  622 | [Design Circular Queue](solutions/l0622/src/lib.rs)                            | [LeetCode](https://leetcode.com/problems/design-circular-queue)                            |
 |  705 | [Design HashSet](solutions/l0705/src/lib.rs)                                   | [LeetCode](https://leetcode.com/problems/design-hashset)                                   |
 |  706 | [Design HashMap](solutions/l0706/src/lib.rs)                                   | [LeetCode](https://leetcode.com/problems/design-hashmap)                                   |
@@ -25,7 +25,7 @@
 | 2043 | [Simple Bank System](solutions/l2043/src/lib.rs)                               | [LeetCode](https://leetcode.com/problems/simple-bank-system)                               |
 | 2215 | [Find the Difference of Two Arrays](solutions/l2215/src/lib.rs)                | [LeetCode](https://leetcode.com/problems/find-the-difference-of-two-arrays)                |
 | 2241 | [Design an ATM Machine](solutions/l2241/src/lib.rs)                            | [LeetCode](https://leetcode.com/problems/design-an-atm-machine)                            |
-| 2241 | [Words Within Two Edits of Dictionary](solutions/l2452//src/lib.rs)            | [LeetCode](https://leetcode.com/problems/words-within-two-edits-of-dictionary)                            |
+| 2241 | [Words Within Two Edits of Dictionary](solutions/l2452/src/lib.rs)             | [LeetCode](https://leetcode.com/problems/words-within-two-edits-of-dictionary)             |
 | 3174 | [Clear Digits](solutions/l3174/src/lib.rs)                                     | [LeetCode](https://leetcode.com/problems/clear-digits)                                     |
 | 3217 | [Delete Nodes From Linked List Present in Array](solutions/l3217/src/lib.rs)   | [LeetCode](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)   |
 | 3248 | [Snake in Matrix](solutions/l3248/src/lib.rs)                                  | [LeetCode](https://leetcode.com/problems/snake-in-matrix)                                  |
