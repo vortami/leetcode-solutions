@@ -5,21 +5,13 @@ impl Solution {
         let mut chars_iter = s.chars();
 
         loop {
-            let front = loop {
-                match chars_iter.next() {
-                    Some(c) if c.is_ascii_alphanumeric() => break c.to_ascii_lowercase(),
-                    Some(_) => continue,
-                    None => return true,
-                }
+            let Some(front) = chars_iter.find(|c| c.is_ascii_alphanumeric()) else {
+                return true;
             };
-            let back = loop {
-                match chars_iter.next_back() {
-                    Some(c) if c.is_ascii_alphanumeric() => break c.to_ascii_lowercase(),
-                    Some(_) => continue,
-                    None => return true,
-                }
+            let Some(back) = chars_iter.rfind(|c| c.is_alphanumeric()) else {
+                return true;
             };
-            if front != back {
+            if !front.eq_ignore_ascii_case(&back) {
                 return false;
             }
         }
@@ -40,9 +32,6 @@ mod tests {
 
     #[test]
     fn test2() {
-        assert_eq!(
-            Solution::is_palindrome("0P".to_owned()),
-            false
-        );
+        assert_eq!(Solution::is_palindrome("0P".to_owned()), false);
     }
 }
