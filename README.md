@@ -8,6 +8,7 @@
 |   17 | [Letter Combinations of a Phone Number](solutions/l0017/src/lib.rs)            | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)            |
 |   24 | [Swap Nodes in Pairs](solutions/l0024/src/lib.rs)                              | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs)                              |
 |   33 | [Search in Rotated Sorted Array](solutions/l0033/src/lib.rs)                   | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)                   |
+|   75 | [Sort Colors](solutions/l0075/src/lib.rs)                                      | [LeetCode](https://leetcode.com/problems/sort-colors)                                      |
 |  125 | [Valid Palindrome](solutions/l0125/src/lib.rs)                                 | [LeetCode](https://leetcode.com/problems/valid-palindrome/)                                |
 |  146 | [LRU Cache](solutions/l0146/src/lib.rs)                                        | [LeetCode](https://leetcode.com/problems/lru-cache)                                        |
 |  203 | [Remove Linked List Elements](solutions/l0203/src/lib.rs)                      | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements)                      |
